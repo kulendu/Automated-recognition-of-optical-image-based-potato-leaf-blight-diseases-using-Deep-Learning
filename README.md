@@ -6,5 +6,7 @@ During some months of the year the potato plants suffer from some leaf diseases,
 In most production areas, early blight occurs annually to some degree. The severity of early blight is dependent upon the frequency of foliar wetness from rain, dew, or irrigation; the nutritional status of the foliage; and cultivar susceptibility.
 - **Late blight** : Late blight is caused by the funguslike oomycete pathogen Phytophthora infestans. This potentially devastating disease can infect potato foliage and tubers at any stage of crop development. The primary host is potato, but P. infestans also can infect other solanaceous plants, including tomatoes, petunias and hairy nightshade, that can act as source of inoculum to potato.
 
-
-
+## Comparison of Normal leaf VS Early blight VS Late blight
+| Normal             |  Leaf with Early blight | Leaf with Late blight |
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/normal.jpg)  |  ![](images/early-blight.jpg) | ![](images/late-blight.jpg)
