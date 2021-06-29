@@ -9,4 +9,4 @@ In most production areas, early blight occurs annually to some degree. The sever
 ## Comparison of Normal leaf VS Early blight VS Late blight
 | Normal             |  Leaf with Early blight | Leaf with Late blight |
 :-------------------------:|:-------------------------:|:-------------------------:
-![](images/normal.jpg)  |  ![](images/early-blight.jpg) | ![](images/late-blight.jpg)
+![](images/normal.JPG)  |  ![](images/early-blight.JPG) | ![](images/late-blight.JPG)
