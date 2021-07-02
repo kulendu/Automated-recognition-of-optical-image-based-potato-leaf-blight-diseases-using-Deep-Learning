@@ -12,4 +12,4 @@ In most production areas, early blight occurs annually to some degree. The sever
 ![](images/normal.JPG)  |  ![](images/early-blight.JPG) | ![](images/late-blight.JPG)
 
 ## Potato Cropping Period and Late Blight favourable Period
-![](imges/period.png)
+![](images/period.png)
