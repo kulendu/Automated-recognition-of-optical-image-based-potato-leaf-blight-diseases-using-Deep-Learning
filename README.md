@@ -24,4 +24,18 @@ In most production areas, early blight occurs annually to some degree. The sever
 - Sporangia washed by rain or carried by irrigation water cause infection on tubers in the soil.
 - Partially exposed tubers can easily become infected.
 - These infected tubers serve as the primary source of inoculum for the next year's crop.
+
 ![](https://www.pau.edu/potato/images/lb66.jpg)
+
+## Model evaluation
+| Model | Accuracy |
+:-------------------------:|:-------------------------:|:-------------------------:
+1. VGG16   |   |
+2. VGG16 (fine-tuned) |  |
+3. VGG19 |  |
+4. ResNet50 |  |
+
+
+
+
+)
