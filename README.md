@@ -13,3 +13,15 @@ In most production areas, early blight occurs annually to some degree. The sever
 
 ## Potato Cropping Period and Late Blight favourable Period
 ![](images/period.png)
+
+## Disease cycle 
+- The fungus over-summers as mycelium in the infected seed potato kept in cold stores.
+- These tubers when planted in the next crop season (main crop and subsequent ones) serve as the source of primary inoculum.
+- When the plants emerge from such tubers, the fungus invades a few of the growing sprouts and sporulates (produce sporangia) under humid conditions. Further spread of the disease takes place by these sporangia through air or rain splashes.
+- Initiation of the disease generally takes about 3-7 days before clearly visible symptoms develop. The fungus produces white sporulation on the underside of the leaves which is clearly visible in the early morning hours.
+- These sporangia further infect new leaves and stems of the nearby plants and this cycle continues after every 4-10 days depending upon the prevailing temperature and humidity levels.
+- If the temperature is lower than 100 C, disease development slows down and takes more time up to 12 days while at temperature of 16-180 C, it takes only 4-5 days to complete one cycle.
+- Sporangia washed by rain or carried by irrigation water cause infection on tubers in the soil.
+- Partially exposed tubers can easily become infected.
+- These infected tubers serve as the primary source of inoculum for the next year's crop.
+![](https://www.pau.edu/potato/images/lb66.jpg)
