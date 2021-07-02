@@ -29,13 +29,12 @@ In most production areas, early blight occurs annually to some degree. The sever
 
 ## Model evaluation
 | Model | Accuracy |
-:-------------------------:|:-------------------------:|:-------------------------:
-1. VGG16   |   |
-2. VGG16 (fine-tuned) |  |
-3. VGG19 |  |
-4. ResNet50 |  |
+:-------------------------:|:-------------------------:|
+ VGG16   | _ |
+ VGG16 (fine-tuned) | _ |
+ VGG19 | _ |
+ ResNet50 | _ |
 
 
 
 
-)
