@@ -10,3 +10,6 @@ In most production areas, early blight occurs annually to some degree. The sever
 | Normal leaf |  Leaf with Early blight | Leaf with Late blight |
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](images/normal.JPG)  |  ![](images/early-blight.JPG) | ![](images/late-blight.JPG)
+
+## Potato Cropping Period and Late Blight favourable Period
+![](imges/period.png)
