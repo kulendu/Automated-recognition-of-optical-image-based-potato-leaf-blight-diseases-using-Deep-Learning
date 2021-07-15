@@ -28,7 +28,7 @@ In most production areas, early blight occurs annually to some degree. The sever
 ![](https://www.pau.edu/potato/images/lb66.jpg)
 
 ## Model evaluation
-| Model | Accuracy |
+| Model | Accuracy (in %) |
 :-------------------------:|:-------------------------:|
  VGG16   | _ |
  VGG16 (fine-tuned) | _ |
