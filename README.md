@@ -31,7 +31,15 @@ In most production areas, early blight occurs annually to some degree. The sever
 
 ![](https://www.pau.edu/potato/images/lb66.jpg)
 
-<!-- ## 3. Model evaluation
+
+
+## 3. Project overview
+To demostrate the working for the proposed project, the figure (below) has all the proposed steps:
+![](https://github.com/kulendu/NITTTR-project/blob/master/images/Fig1.png)
+
+## 4. Model Comparision and Evaluation
+
+## 4.1. Model evaluation
 | Model | Accuracy (in %) |
 :-------------------------:|:-------------------------:|
  VGG16   | 92.06 |
@@ -39,10 +47,4 @@ In most production areas, early blight occurs annually to some degree. The sever
  VGG19 | 80.39 |
  ResNet50 | 73.75 |
  MobileNet | 78.84 
- -->
-
-## 3. Project overview
-To demostrate the working for the proposed project, the figure (below) has all the proposed steps
-![](https://github.com/kulendu/NITTTR-project/blob/master/images/Fig1.png)
-
 
