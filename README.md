@@ -43,6 +43,6 @@ In most production areas, early blight occurs annually to some degree. The sever
 
 ## 3. Project overview
 To demostrate the working for the proposed project, the figure (below) has all the proposed steps
-![](https://drive.google.com/file/d/13aNfZpDhVT2lGX0nF4rDDrSTKdl-951I/view?usp=sharing)
+![](https://github.com/kulendu/NITTTR-project/blob/master/images/Fig1.png)
 
 
