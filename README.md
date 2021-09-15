@@ -1,5 +1,10 @@
 # Autonomous Potato leaf disease detection using Machine Learning appraoch
 
+<p align='center'>
+ <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/NITTTR_Kolkata_New_Logo.jpg' width=170px style='border-radius:100%;'>\
+ - Supervised by: 
+</p>
+
 ## Introduction
 During some months of the year the potato plants suffer from some leaf diseases, known as *Blights*. These are formed and can be classified as two-staged disease:
 - **Early blight** : Early blight of potato is caused by the *fungal pathogen Alternaria solani*. The disease affects leaves, stems and tubers and can reduce yield, tuber size, storability of tubers, quality of fresh-market and processing tubers and marketability of the crop.
