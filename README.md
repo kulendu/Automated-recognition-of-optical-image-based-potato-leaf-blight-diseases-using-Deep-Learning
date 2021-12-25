@@ -1,8 +1,8 @@
-# Autonomous Potato leaf disease detection using Machine Learning appraoch
+# Automated recognition of optical image based potato leaf blight diseases using deep learning
 
-<p align='center'>
+<!-- <p align='center'>
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/NITTTR_Kolkata_New_Logo.jpg' width=170px style='border-radius:100%;'>
-</p>
+</p> -->
 
 ## 1. Introduction
 During some months of the year the potato plants suffer from some leaf diseases, known as *Blights*. These are formed and can be classified as two-staged disease:
