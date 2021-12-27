@@ -18,10 +18,10 @@ In most production areas, early blight occurs annually to some degree. The sever
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](images/normal.JPG)  |  ![](images/early-blight.JPG) | ![](images/late-blight.JPG)
 
-## 2.1. Potato Cropping Period and Late Blight favourable Period
+### 2.1. Potato Cropping Period and Late Blight favourable Period
 ![](images/period.png)
 
-## 2.2. Disease cycle 
+### 2.2. Disease cycle 
 - The fungus over-summers as mycelium in the infected seed potato kept in cold stores.
 - These tubers when planted in the next crop season (main crop and subsequent ones) serve as the source of primary inoculum.
 - When the plants emerge from such tubers, the fungus invades a few of the growing sprouts and sporulates (produce sporangia) under humid conditions. Further spread of the disease takes place by these sporangia through air or rain splashes.
@@ -44,7 +44,7 @@ To demostrate the working for the proposed project, the figure (below) has all t
 
 *include about whast have been done weith the models and model's choosed?*
 
-## 4.1. Model evaluation
+### 4.1. Model evaluation
 | Model | Accuracy (in %) |
 :-------------------------:|:-------------------------:|
  VGG16   | 92.06 |
@@ -53,12 +53,12 @@ To demostrate the working for the proposed project, the figure (below) has all t
  ResNet50 | 73.75 |
  MobileNet | 78.84 
  
- ## 4.2. VGG 16 fined-tuned architecture
+ ### 4.2. VGG 16 fined-tuned architecture
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/2.png' width=40%>
 
 *Fine-tuned architecture for VGG 16.*
  
-## 4.3. Results
+### 4.3. Results
 <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/a.png' width=60%>
 
 *The above graphs depicts the accuracy and loss for the fine-tuned VGG 16 model.*
