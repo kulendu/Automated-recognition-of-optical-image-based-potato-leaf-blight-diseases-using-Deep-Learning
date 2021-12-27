@@ -1,8 +1,8 @@
-# Autonomous Potato leaf disease detection using Machine Learning appraoch
+# Automated recognition of optical image based potato leaf blight diseases using deep learning
 
-<p align='center'>
+<!-- <p align='center'>
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/NITTTR_Kolkata_New_Logo.jpg' width=170px style='border-radius:100%;'>
-</p>
+</p> -->
 
 ## 1. Introduction
 During some months of the year the potato plants suffer from some leaf diseases, known as *Blights*. These are formed and can be classified as two-staged disease:
@@ -31,7 +31,15 @@ In most production areas, early blight occurs annually to some degree. The sever
 
 ![](https://www.pau.edu/potato/images/lb66.jpg)
 
-<!-- ## 3. Model evaluation
+
+
+## 3. Project overview
+To demostrate the working for the proposed project, the figure (below) has all the proposed steps:
+![](https://github.com/kulendu/NITTTR-project/blob/master/images/Fig1.png)
+
+## 4. Model Comparision and Evaluation
+
+## 4.1. Model evaluation
 | Model | Accuracy (in %) |
 :-------------------------:|:-------------------------:|
  VGG16   | 92.06 |
@@ -39,10 +47,4 @@ In most production areas, early blight occurs annually to some degree. The sever
  VGG19 | 80.39 |
  ResNet50 | 73.75 |
  MobileNet | 78.84 
- -->
-
-## 3. Project overview
-To demostrate the working for the proposed project, the figure (below) has all the proposed steps
-![](https://drive.google.com/file/d/13aNfZpDhVT2lGX0nF4rDDrSTKdl-951I/view?usp=sharing)
-
 
