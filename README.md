@@ -48,7 +48,7 @@ To demostrate the working for the proposed project, the figure (below) has all t
 | Model | Accuracy (in %) |
 :-------------------------:|:-------------------------:|
  VGG16   | 92.06 |
- VGG16 (fine-tuned) | 96.45 |
+ **VGG16 (fine-tuned**) | **97.89** |
  VGG19 | 80.39 |
  ResNet50 | 73.75 |
  MobileNet | 78.84 
