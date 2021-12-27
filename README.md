@@ -55,10 +55,12 @@ To demostrate the working for the proposed project, the figure (below) has all t
  
  ## 4.2. VGG 16 fined-tuned architecture
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/2.png' width=40%>
+
 *Fine-tuned architecture for VGG 16.*
  
 ## 4.3. Results
 <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/a.png' width=60%>
+
 *The above graphs depicts the accuracy and loss for the fine-tuned VGG 16 model.*
 
 
