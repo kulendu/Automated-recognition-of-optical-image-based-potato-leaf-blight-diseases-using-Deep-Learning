@@ -1,4 +1,7 @@
-# Automated recognition of optical image based potato leaf blight diseases using deep learning
+# "Automated recognition of optical image based potato leaf blight diseases using deep learning"
+
+**Kulendu Kashyap Chakraborty**, Rashmi Mukherjee, Chandan Chakroborty, Kangkana Bora. \
+[https://doi.org/10.1016/j.pmpp.2021.101781](https://www.sciencedirect.com/science/article/abs/pii/S088557652100182X?via%3Dihub), In [Physiological and Molecular Plant Pathology (2021): 101781](https://www.sciencedirect.com/journal/physiological-and-molecular-plant-pathology).
 
 <!-- <p align='center'>
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/NITTTR_Kolkata_New_Logo.jpg' width=170px style='border-radius:100%;'>
@@ -47,4 +50,9 @@ To demostrate the working for the proposed project, the figure (below) has all t
  VGG19 | 80.39 |
  ResNet50 | 73.75 |
  MobileNet | 78.84 
+ 
+## 4.2. Results
+<img src='https://github.com/kulendu/NITTTR-project/blob/master/images/a.png' width=60%>
+*The above graphs depicts the accuracy and loss for the fine-tuned VGG 16 model.*
+
 
