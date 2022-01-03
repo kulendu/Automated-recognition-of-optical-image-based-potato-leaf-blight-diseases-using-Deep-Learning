@@ -69,6 +69,7 @@ To demostrate the working for the proposed project, the figure (below) has all t
  VGG19 | 80.39 |
  ResNet50 | 73.75 |
  MobileNet | 78.84 
+ ***Bold** indicates the model with best performance*
  
  ### 5.2. VGG 16 fined-tuned architecture
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/2.png' width=40%>
