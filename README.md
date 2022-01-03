@@ -68,7 +68,8 @@ To demostrate the working for the proposed project, the figure (below) has all t
  **VGG16 (fine-tuned**) | **97.89** |
  VGG19 | 80.39 |
  ResNet50 | 73.75 |
- MobileNet | 78.84 
+ MobileNet | 78.84 |
+ 
  ***Bold** indicates the model with best performance*
  
  ### 5.2. VGG 16 fined-tuned architecture
