@@ -36,15 +36,32 @@ In most production areas, early blight occurs annually to some degree. The sever
 
 
 
-## 3. Project overview
+## 4. Abstract
+The Potato crop (Solanum tuberosum L.) is one of the most important vegetable food crop grown globally. The
+yield of potato crop is greatly hampered both in quality and quantity by fungal blight diseases which pose a
+major threat to the global food security. Late blight caused by Phytophthora infestans and early blight caused by
+Alternaria solani are the most devastating foliage diseases for potato crops. In reality, the farmers presume such
+disorders by visualizing mainly the color change in the potato leaves that is usually risky due to subjectivity and
+huge time consumption. Under such situations, there is an urgent need to design computational models that
+would automatically detect these diseases rapidly and quantitatively even at its early phase. This paper explores
+recent deep learning models for automated recognition of late and early blight diseases based on the optical
+images of potato leaves. Initially, four deep learning models viz., VGG16, VGG19, MobileNet and ResNet50 have
+been trained with PlantVillage Dataset. It is observed that VGG16 provides the highest accuracy of 92.69% in
+comparison with other models. Now, to further enhance the performance of VGG16, fine-tuning of the model has
+been done based on the concept of parameter tweaking. The proposed methodology finally achieved 97.89%
+accuracy for classification between late and early blight syndromes as compared to healthy potato leaf. This
+study showed the detailed architecture of the fine-tuned VGG16 model with validation accuracy and losses. Our
+proposed methodology has also been compared with the existing techniques.
+
+## 5. Project overview
 To demostrate the working for the proposed project, the figure (below) has all the proposed steps:
 ![](https://github.com/kulendu/NITTTR-project/blob/master/images/Fig1.png)
 
-## 4. Model Comparision and Evaluation
+## 6. Model Comparision and Evaluation
 
 *include about whast have been done weith the models and model's choosed?*
 
-### 4.1. Model evaluation
+### 6.1. Model evaluation
 | Model | Accuracy (in %) |
 :-------------------------:|:-------------------------:|
  VGG16   | 92.06 |
@@ -53,14 +70,25 @@ To demostrate the working for the proposed project, the figure (below) has all t
  ResNet50 | 73.75 |
  MobileNet | 78.84 
  
- ### 4.2. VGG 16 fined-tuned architecture
+ ### 6.2. VGG 16 fined-tuned architecture
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/2.png' width=40%>
 
 *Fine-tuned architecture for VGG 16.*
  
-### 4.3. Results
+### 6.3. Results
 <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/a.png' width=60%>
 
 *The above graphs depicts the accuracy and loss for the fine-tuned VGG 16 model.*
+<hr>
 
+## Setup
+```sh
+> git clone git@github.com:kulendu/Automated-recognition-of-optical-image-based-potato-leaf-blight-diseases-using-Deep-Learning.git
+```
+```sh
+> cd Automated-recognition-of-optical-image-based-potato-leaf-blight-diseases-using-Deep-Learning/
+```
+```sh
+> pip install -r req.txt
+```
 
