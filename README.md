@@ -36,7 +36,7 @@ In most production areas, early blight occurs annually to some degree. The sever
 
 
 
-## 4. Abstract
+## 3. Abstract
 The Potato crop (Solanum tuberosum L.) is one of the most important vegetable food crop grown globally. The
 yield of potato crop is greatly hampered both in quality and quantity by fungal blight diseases which pose a
 major threat to the global food security. Late blight caused by Phytophthora infestans and early blight caused by
@@ -53,15 +53,15 @@ accuracy for classification between late and early blight syndromes as compared 
 study showed the detailed architecture of the fine-tuned VGG16 model with validation accuracy and losses. Our
 proposed methodology has also been compared with the existing techniques.
 
-## 5. Project overview
+## 4. Project overview
 To demostrate the working for the proposed project, the figure (below) has all the proposed steps:
 ![](https://github.com/kulendu/NITTTR-project/blob/master/images/Fig1.png)
 
-## 6. Model Comparision and Evaluation
+## 5. Model Comparision and Evaluation
 
 *include about whast have been done weith the models and model's choosed?*
 
-### 6.1. Model evaluation
+### 5.1. Model evaluation
 | Model | Accuracy (in %) |
 :-------------------------:|:-------------------------:|
  VGG16   | 92.06 |
@@ -70,18 +70,18 @@ To demostrate the working for the proposed project, the figure (below) has all t
  ResNet50 | 73.75 |
  MobileNet | 78.84 
  
- ### 6.2. VGG 16 fined-tuned architecture
+ ### 5.2. VGG 16 fined-tuned architecture
  <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/2.png' width=40%>
 
 *Fine-tuned architecture for VGG 16.*
  
-### 6.3. Results
+### 5.3. Results
 <img src='https://github.com/kulendu/NITTTR-project/blob/master/images/a.png' width=60%>
 
 *The above graphs depicts the accuracy and loss for the fine-tuned VGG 16 model.*
 <hr>
 
-## Setup
+## 6. Setup
 ```sh
 > git clone git@github.com:kulendu/Automated-recognition-of-optical-image-based-potato-leaf-blight-diseases-using-Deep-Learning.git
 ```
